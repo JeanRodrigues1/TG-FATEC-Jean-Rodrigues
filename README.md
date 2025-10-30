@@ -14,12 +14,15 @@ Olá, sou Jean César. Estudante de Banco de Dados e profissional de tecnologia 
 ## Meus Principais Conhecimentos
 Com uma base sólida em gestão de projetos e na metodologia SCRUM, tenho a capacidade de atuar desde a análise sistêmica até a implementação de soluções completas.
 
-No backend, possuo experiência com Java e Python (Django), e no frontend, desenvolvo com TypeScript e Vue.js. Tenho familiaridade com diversos bancos de dados, incluindo MySQL, PostgreSQL e soluções em Cloud. Além disso, utilizo ferramentas como Docker, Figma e técnicas de modelagem de dados para garantir a qualidade e a eficiência dos projetos. Meu foco atual é aprimorar minhas habilidades como desenvolvedor full-stack e em análise de dados.
+No backend, possuo experiência com Java e Python (Django), e no frontend, desenvolvo com TypeScript e Vue.js. Tenho familiaridade com diversos bancos de dados, incluindo MySQL, PostgreSQL e soluções em Cloud. Além disso, utilizo ferramentas como Docker, Figma e técnicas de modelagem de dados para garantir a qualidade e a eficiência dos projetos. Meu foco atual é aprimorar minhas habilidades como desenvolvedor full-stack, em análise de dados e processos ágeis de gerenciamento de equipe.
 
 
 ## Meus Projetos
 
 ### Em 2022-2
+
+## BIOS
+
 A instituição parceira neste projeto foi a Faculdade de Tecnologia (Fatec) de São José dos Campos, uma referência no ensino superior tecnológico na região do Vale do Paraíba. Com uma infraestrutura robusta que inclui dezenas de laboratórios e centenas de computadores, a Fatec atende milhares de alunos e professores diariamente. A gestão e manutenção eficientes desses equipamentos são cruciais para garantir a qualidade do ensino e o bom andamento das atividades acadêmicas, tornando a instituição o cliente e o ambiente ideal para o desenvolvimento de uma solução de otimização de processos internos.
 
 O principal desafio identificado foi a falta de um sistema centralizado e eficiente para o reporte e acompanhamento de problemas nos computadores dos laboratórios. O processo existente era manual e descentralizado, dependendo de comunicações informais por e-mail ou avisos verbais à equipe de TI. Isso resultava em uma série de dificuldades: perda de tempo para identificar as máquinas defeituosas, falta de visibilidade sobre o status dos consertos, múltiplos reportes para o mesmo problema e, principalmente, a frustração de alunos e professores ao encontrarem equipamentos inoperantes, prejudicando o andamento das aulas.
@@ -51,14 +54,31 @@ Com este projeto, fui introduzido ao mundo da programação, na metodologia ági
 #### Soft Skills
 Com este projeto, adquiri habilidades de comunicação com a equipe, com a realização de Dailys e discussões sobre o escopo do projeto com plannings e discussões informais.
 
-### Em 2022-1
-Mesmo formato
-
-### Em 2022-2
-Mesmo formato
 
 ### Em 2023-1
-Mesmo formato
+
+## PARE
+
+A instituição parceira neste projeto foi a Faculdade de Tecnologia (Fatec) de São José dos Campos, reconhecida pelo ensino superior tecnológico de excelência na região do Vale do Paraíba. Com uma grande quantidade de turmas e alunos matriculados, a Fatec enfrenta diariamente o desafio de gerenciar e documentar trabalhos, provas e notas, tornando os processos internos cansativos e, muitas vezes, pouco eficientes para os professores. Essas características evidenciam o potencial da instituição como cliente ideal para soluções que otimizem a gestão acadêmica.
+
+O principal problema identificado foi o gerenciamento manual da grande quantidade de atribuições e desempenho dos alunos, exigindo dos docentes extensivas horas de trabalho burocrático, além de dificultar a análise individual do progresso estudantil. Essa sobrecarga afetava a eficácia no acompanhamento pedagógico e o tempo disponível para outras atividades de ensino.
+
+Como resposta a esse cenário, desenvolvi o PARE, uma plataforma desktop em Java que centraliza o processo de documentação de provas, trabalhos e atribuições diversas, além de facilitar o acompanhamento detalhado do desempenho dos alunos e das turmas. Professores podem cadastrar novas atividades, definir datas de entrega, lançar notas e registrar informações de entrega, tudo em uma interface integrada e intuitiva. A solução oferece maior agilidade, organização e precisão na gestão acadêmica, melhorando a experiência dos docentes e promovendo um ambiente de ensino mais eficiente.
+
+#### Tecnologias Utilizada
+* Java: Linguagem de programação utilizada na resolução do problema.
+* Trello: Ferramenta visual e colaborativa que auxilia no gerenciamento de projeto e fluxo de trabalho.
+* Apache NetBeans: Ambiente de desenvolvimento.
+* Discord: Plataforma utilizada para realização de reuniões da equipe.
+* Figma: Prototipagem.
+* GitHub: Controle de versionamento, documentação e colaboração.
+* MySQL: Banco de Dados utilizado.
+
+#### Contribuições Pessoais
+Neste projeto, concentrei minhas atividades na construção visual da interface do sistema, utilizando recursos do Java para garantir uma experiência acessível e intuitiva aos professores usuários. Além disso, fui responsável pela documentação detalhada do projeto, organizando os fluxos, requisitos e instruções de uso, contribuindo para a compreensão e manutenção do software por toda a equipe envolvida.
+
+#### Hard Skills
+Com este projeto, com o desenvolvimento do back-end e front-end foram puramente com Java, o aprendizado com a linguagem foi de extrema importancia e evolução!
 
 ### Em 2023-2
 Mesmo formato
