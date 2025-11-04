@@ -33,7 +33,7 @@ Para solucionar essa questão, nossa equipe desenvolveu a BIOS, uma plataforma w
 <img width="1364" height="654" alt="image" src="https://github.com/user-attachments/assets/7a4c56c2-1ef9-4c9b-b5a7-706dda31b672" />
 
 
-[GIT]([https://github.com/JeanRodrigues1/BIOS?tab=readme-ov-file])
+[GITHUB PROJETO]([https://github.com/JeanRodrigues1/BIOS?tab=readme-ov-file])
 
 #### Tecnologias Utilizadas
 * HTML: Estrutura das páginas.
@@ -64,6 +64,11 @@ A instituição parceira neste projeto foi a Faculdade de Tecnologia (Fatec) de 
 O principal problema identificado foi o gerenciamento manual da grande quantidade de atribuições e desempenho dos alunos, exigindo dos docentes extensivas horas de trabalho burocrático, além de dificultar a análise individual do progresso estudantil. Essa sobrecarga afetava a eficácia no acompanhamento pedagógico e o tempo disponível para outras atividades de ensino.
 
 Como resposta a esse cenário, desenvolvi o PARE, uma plataforma desktop em Java que centraliza o processo de documentação de provas, trabalhos e atribuições diversas, além de facilitar o acompanhamento detalhado do desempenho dos alunos e das turmas. Professores podem cadastrar novas atividades, definir datas de entrega, lançar notas e registrar informações de entrega, tudo em uma interface integrada e intuitiva. A solução oferece maior agilidade, organização e precisão na gestão acadêmica, melhorando a experiência dos docentes e promovendo um ambiente de ensino mais eficiente.
+
+### Video da Aplicação:
+https://github.com/user-attachments/assets/d2ef80ca-83cc-4a67-9c30-d8e17c145e08
+
+[GITHUB PROJETO]([https://github.com/JeanRodrigues1/PARE?tab=readme-ov-file])
 
 #### Tecnologias Utilizada
 * Java: Linguagem de programação utilizada na resolução do problema.
