@@ -131,6 +131,9 @@ Diante desse cenário, foi proposto o desenvolvimento de um Portal de Agendament
 
 Com base na metodologia ágil Scrum, o projeto também buscou estimular a proatividade, autonomia e colaboração entre os membros da equipe de desenvolvimento, reforçando a importância da entrega contínua de resultados e da adaptação às necessidades reais do cliente.
 
+### Imagem da Aplicação:
+<img width="1321" height="721" alt="image" src="https://github.com/user-attachments/assets/2b2dffcb-1450-46db-af29-1e5008ee56f9" />
+
 [GITHUB PROJETO](https://github.com/JeanRodrigues1/API-SIATT)
 
 #### Tecnologias Utilizada
