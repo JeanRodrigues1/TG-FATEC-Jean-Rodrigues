@@ -86,4 +86,66 @@ Neste projeto, concentrei minhas atividades na construção visual da interface 
 Com este projeto, com o desenvolvimento do back-end e front-end foram puramente com Java, o aprendizado com a linguagem foi de extrema importancia e evolução!
 
 ### Em 2023-2
-Mesmo formato
+
+## FULLSTACK API-3
+
+A empresa IONICHEALTH é uma organização voltada à área da saúde e regulamentação, com foco em garantir o cumprimento rigoroso das normas exigidas por órgãos regulatórios. Sua equipe lida diariamente com processos complexos, documentos e prazos que exigem controle detalhado e comunicação eficiente entre diversos setores. Por isso, a empresa busca constantemente soluções tecnológicas que tornem sua gestão mais ágil, segura e integrada.
+
+Pensando nessas necessidades, foi desenvolvido um sistema web capaz de centralizar o gerenciamento dos processos regulatórios de forma personalizada. A plataforma permite configurar fluxos de trabalho conforme as demandas da IONICHEALTH, definir etapas, responsáveis e prazos, além de fornecer um painel de controle intuitivo para acompanhar o progresso em tempo real. Também é possível anexar evidências, emitir relatórios personalizados e monitorar indicadores de desempenho, promovendo transparência e conformidade em cada etapa do processo.
+
+Com a implantação dessa solução, a IONICHEALTH passou a usufruir de uma experiência mais eficiente e colaborativa entre suas equipes. As notificações automáticas e a integração com e-mails e sistemas externos contribuem para reduzir atrasos e melhorar a comunicação interna. A automatização de etapas e o acesso seguro por múltiplos dispositivos trouxeram mais agilidade e confiança à rotina regulatória da empresa, fortalecendo sua capacidade de atuar com precisão e qualidade no setor da saúde.
+
+### Imagens da Aplicação:
+<img width="1895" height="931" alt="image" src="https://github.com/user-attachments/assets/2ef295ba-be6f-427c-b47a-8f4c2a0726db" />
+<img width="1897" height="931" alt="image" src="https://github.com/user-attachments/assets/d7c20d96-0ee2-4938-a6c9-43a741e6fea9" />
+<img width="1899" height="932" alt="image" src="https://github.com/user-attachments/assets/b1bbbab7-54c0-4ac1-b4f0-daf08f2ce571" />
+<img width="1189" height="562" alt="image" src="https://github.com/user-attachments/assets/b3dce912-4bc3-4fa6-9477-ea49941dcf92" />
+<img width="1899" height="967" alt="image" src="https://github.com/user-attachments/assets/846e0cce-bbdf-4afa-a73e-b84b57222b19" />
+<img width="1899" height="967" alt="image" src="https://github.com/user-attachments/assets/d7df31dc-68db-4312-b7c8-9b2f65dcc967" />
+
+
+[GITHUB PROJETO](https://github.com/Equipe-FULLSTACK/API-3)
+
+#### Tecnologias Utilizada
+* Typescript: Linguagem de programação utilizada na resolução do problema.
+* Figma: Prototipagem.
+* GitHub: Controle de versionamento, documentação e colaboração.
+* MySQL: Banco de Dados utilizado.
+* HTML: Estrutura das páginas.
+* CSS: Estilização.
+* Javascript: Manipulação de input.
+
+#### Hard Skills
+Durante o desenvolvimento do projeto, aprimorei meus conhecimentos em Typescript, JavaScript, HTML e CSS, aplicando-os na criação de interfaces funcionais e bem estruturadas. O uso do GitHub foi essencial para o controle de versão, documentação e integração das tarefas em equipe.
+
+#### Soft Skills
+Como Product Owner durante parte do projeto, desenvolvi habilidades de comunicação e liderança, atuando na organização das demandas da equipe e no alinhamento entre os objetivos técnicos e as necessidades do cliente. Trabalhei de forma colaborativa na tomada de decisões, definição de prioridades e acompanhamento das entregas, aprimorando minha capacidade de gerenciamento de tempo e resolução de problemas.
+
+### Em 2024-1
+
+## API-SIATT
+
+A SIATT, empresa parceira neste projeto, identificou a necessidade de otimizar a gestão de suas reuniões corporativas diante do crescimento e dispersão de suas equipes. O agendamento de reuniões tornou-se um processo desafiador e demorado, afetando diretamente a produtividade e a comunicação interna da organização.
+
+Diante desse cenário, foi proposto o desenvolvimento de um Portal de Agendamento de Reuniões, uma solução que visa centralizar informações de diferentes fontes, automatizar etapas e oferecer uma interface simples e intuitiva para todos os colaboradores. A plataforma permitirá agendar reuniões presenciais, online ou híbridas, garantindo eficiência no uso de salas, melhor organização e redução de tempo gasto em tarefas operacionais.
+
+Com base na metodologia ágil Scrum, o projeto também buscou estimular a proatividade, autonomia e colaboração entre os membros da equipe de desenvolvimento, reforçando a importância da entrega contínua de resultados e da adaptação às necessidades reais do cliente.
+
+[GITHUB PROJETO](https://github.com/JeanRodrigues1/API-SIATT)
+
+#### Tecnologias Utilizada
+* Figma: Ferramenta usada para desenhar e prototipar as telas do sistema.
+* MySQL: Banco de dados para armazenar informações do portal.
+* React: Framework para criar as páginas e interfaces do sistema.
+* TailwindCSS: Estilização rápida e customizável das telas.
+* JavaScript: Linguagem principal para construir funcionalidades e interatividade.
+* NestJS: Framework para o desenvolvimento das APIs e integrações do sistema.
+* Typescript: Permite criar códigos mais seguros e organizados.
+
+Node.js: Ambiente usado para rodar o backend e executar a lógica do sistema.
+
+### Hard Skills
+Durante o desenvolvimento, aprofundei meus conhecimentos em frameworks modernos para front-end e back-end, trabalhando com React, TailwindCSS, NestJS, Typescript e Node.js. Aprendi a integrar diferentes fontes de dados e sistemas externos, além de aplicar práticas de documentação, versionamento e prototipagem avançada.
+
+### Soft Skills
+Ao longo do projeto, desenvolvi habilidades de colaboração, comunicação eficiente e solução de problemas em equipe multidisciplinar. Exercitei a adaptabilidade frente às novas demandas do cliente, proatividade na busca por melhorias, além de gerir prazos e prioridades de entrega em ambiente ágil.
