@@ -33,7 +33,7 @@ Para solucionar essa questão, nossa equipe desenvolveu a BIOS, uma plataforma w
 <img width="1364" height="654" alt="image" src="https://github.com/user-attachments/assets/7a4c56c2-1ef9-4c9b-b5a7-706dda31b672" />
 
 
-[GITHUB PROJETO]([https://github.com/JeanRodrigues1/BIOS?tab=readme-ov-file])
+[GITHUB PROJETO](https://github.com/JeanRodrigues1/BIOS?tab=readme-ov-file)
 
 #### Tecnologias Utilizadas
 * HTML: Estrutura das páginas.
@@ -68,7 +68,7 @@ Como resposta a esse cenário, desenvolvi o PARE, uma plataforma desktop em Java
 ### Video da Aplicação:
 https://github.com/user-attachments/assets/d2ef80ca-83cc-4a67-9c30-d8e17c145e08
 
-[GITHUB PROJETO]([https://github.com/JeanRodrigues1/PARE?tab=readme-ov-file])
+[GITHUB PROJETO](https://github.com/JeanRodrigues1/PARE?tab=readme-ov-file)
 
 #### Tecnologias Utilizada
 * Java: Linguagem de programação utilizada na resolução do problema.
