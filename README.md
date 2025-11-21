@@ -85,42 +85,6 @@ Neste projeto, concentrei minhas atividades na construção visual da interface 
 #### Hard Skills
 Com este projeto, com o desenvolvimento do back-end e front-end foram puramente com Java, o aprendizado com a linguagem foi de extrema importancia e evolução!
 
-### Em 2023-2
-
-## FULLSTACK API-3
-
-A empresa IONICHEALTH é uma organização voltada à área da saúde e regulamentação, com foco em garantir o cumprimento rigoroso das normas exigidas por órgãos regulatórios. Sua equipe lida diariamente com processos complexos, documentos e prazos que exigem controle detalhado e comunicação eficiente entre diversos setores. Por isso, a empresa busca constantemente soluções tecnológicas que tornem sua gestão mais ágil, segura e integrada.
-
-Pensando nessas necessidades, foi desenvolvido um sistema web capaz de centralizar o gerenciamento dos processos regulatórios de forma personalizada. A plataforma permite configurar fluxos de trabalho conforme as demandas da IONICHEALTH, definir etapas, responsáveis e prazos, além de fornecer um painel de controle intuitivo para acompanhar o progresso em tempo real. Também é possível anexar evidências, emitir relatórios personalizados e monitorar indicadores de desempenho, promovendo transparência e conformidade em cada etapa do processo.
-
-Com a implantação dessa solução, a IONICHEALTH passou a usufruir de uma experiência mais eficiente e colaborativa entre suas equipes. As notificações automáticas e a integração com e-mails e sistemas externos contribuem para reduzir atrasos e melhorar a comunicação interna. A automatização de etapas e o acesso seguro por múltiplos dispositivos trouxeram mais agilidade e confiança à rotina regulatória da empresa, fortalecendo sua capacidade de atuar com precisão e qualidade no setor da saúde.
-
-### Imagens da Aplicação:
-<img width="1895" height="931" alt="image" src="https://github.com/user-attachments/assets/2ef295ba-be6f-427c-b47a-8f4c2a0726db" />
-<img width="1897" height="931" alt="image" src="https://github.com/user-attachments/assets/d7c20d96-0ee2-4938-a6c9-43a741e6fea9" />
-<img width="1899" height="932" alt="image" src="https://github.com/user-attachments/assets/b1bbbab7-54c0-4ac1-b4f0-daf08f2ce571" />
-<img width="1189" height="562" alt="image" src="https://github.com/user-attachments/assets/b3dce912-4bc3-4fa6-9477-ea49941dcf92" />
-<img width="1899" height="967" alt="image" src="https://github.com/user-attachments/assets/846e0cce-bbdf-4afa-a73e-b84b57222b19" />
-<img width="1899" height="967" alt="image" src="https://github.com/user-attachments/assets/d7df31dc-68db-4312-b7c8-9b2f65dcc967" />
-
-
-[GITHUB PROJETO](https://github.com/Equipe-FULLSTACK/API-3)
-
-#### Tecnologias Utilizada
-* Typescript: Linguagem de programação utilizada na resolução do problema.
-* Figma: Prototipagem.
-* GitHub: Controle de versionamento, documentação e colaboração.
-* MySQL: Banco de Dados utilizado.
-* HTML: Estrutura das páginas.
-* CSS: Estilização.
-* Javascript: Manipulação de input.
-
-#### Hard Skills
-Durante o desenvolvimento do projeto, aprimorei meus conhecimentos em Typescript, JavaScript, HTML e CSS, aplicando-os na criação de interfaces funcionais e bem estruturadas. O uso do GitHub foi essencial para o controle de versão, documentação e integração das tarefas em equipe.
-
-#### Soft Skills
-Como Product Owner durante parte do projeto, desenvolvi habilidades de comunicação e liderança, atuando na organização das demandas da equipe e no alinhamento entre os objetivos técnicos e as necessidades do cliente. Trabalhei de forma colaborativa na tomada de decisões, definição de prioridades e acompanhamento das entregas, aprimorando minha capacidade de gerenciamento de tempo e resolução de problemas.
-
 ### Em 2024-1
 
 ## API-SIATT
@@ -152,3 +116,31 @@ Durante o desenvolvimento, aprofundei meus conhecimentos em frameworks modernos 
 
 ### Soft Skills
 Ao longo do projeto, desenvolvi habilidades de colaboração, comunicação eficiente e solução de problemas em equipe multidisciplinar. Exercitei a adaptabilidade frente às novas demandas do cliente, proatividade na busca por melhorias, além de gerir prazos e prioridades de entrega em ambiente ágil.
+
+### Em 2025-1
+
+## GEOHOOD
+
+A empresa Visiona Espacial é especializada no setor agrícola e busca modernizar a administração de áreas rurais através de soluções tecnológicas integradas. Com a expansão do agronegócio e o crescente volume de dados sobre propriedades, tornou-se necessário contar com ferramentas que proporcionem visualização, organização e análise de informações geoespaciais de forma eficiente e segura, atendendo gestores, analistas e consultores.
+
+Pensando nessas demandas, desenvolvemos um sistema web inovador voltado ao cadastro, gerenciamento e análise de áreas agrícolas, permitindo aos diferentes perfis de usuários acessar dashboards interativos, visualizar mapas dinâmicos e cadastrar novas áreas por upload de arquivos .geojson e edição de areas de ervas daninhas cadastradas via .geojson. O sistema oferece suporte à edição e aprovação dessas regiões, garantindo que apenas áreas validadas estejam disponíveis para consulta. Além disso, as funcionalidades de filtros de dados e integração com APIs de streaming viabilizam a plotagem de informações processadas diretamente sobre as áreas agrícolas, trazendo agilidade e facilitando a tomada de decisão estratégica baseada em dados reais.
+
+Outro diferencial implementado no projeto é a ferramenta de desenho para edição de geometria das ervas daninhas, que amplia as possibilidades de manipulação do território diretamente na interface do mapa. A estrutura do sistema contempla diferentes permissões de acesso, assegurando que administradores, analistas e consultores possam atuar conforme suas responsabilidades.
+
+### Link do Projeto:
+[GITHUB PROJETO](https://github.com/JeanRodrigues1/4_GeoHood?tab=readme-ov-file)
+
+#### Tecnologias Utilizada
+* Java: Linguagem de programação principal, utilizando o framework Spring Boot na resolução dos requisitos.
+* Figma: Prototipagem.
+* GitHub: Controle de versionamento, documentação, colaboração em submódulos.
+* MySQL: Banco de dados relacional.
+* Vue.js: Desenvolvimento do front-end minimalista e interativo.
+* HTML5: Estruturação das páginas e componentes.
+* Stackoverflow: Apoio na resolução de dúvidas técnicas.
+
+#### Hard Skills
+Durante o desenvolvimento do sistema, aprofundei meus conhecimentos em Java (especialmente com Spring Boot para backend), em Vue.js para a construção de interfaces minimalistas e interativas, e na manipulação de arquivos geoespaciais (.geojson). O uso do MySQL foi fundamental para o armazenamento eficiente das áreas cadastradas, enquanto o domínio de ferramentas como Figma e Intelij otimizou a prototipagem e implementação do projeto.
+
+#### Soft Skills
+Como desenvolvedor, trabalhei em constante colaboração com o time, participando das decisões técnicas, revisando código e compartilhando soluções. Aprimorei minha comunicação, trabalho em equipe e organização, contribuindo para um ambiente produtivo e o cumprimento dos objetivos do projeto.
