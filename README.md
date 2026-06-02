@@ -144,3 +144,41 @@ Durante o desenvolvimento do sistema, aprofundei meus conhecimentos em Java (esp
 
 #### Soft Skills
 Como desenvolvedor, trabalhei em constante colaboração com o time, participando das decisões técnicas, revisando código e compartilhando soluções. Aprimorei minha comunicação, trabalho em equipe e organização, contribuindo para um ambiente produtivo e o cumprimento dos objetivos do projeto.
+
+### Em 2025-2
+
+## JIBÓIA
+
+A empresa parceira neste projeto foi a Necto, que buscava uma solução analítica capaz de extrair, consolidar e apresentar dados operacionais do Jira de forma estruturada e acessível para diferentes níveis de gestão. Com o aumento da complexidade dos projetos e do volume de issues, tornou-se essencial ter uma visão centralizada sobre esforço, andamento e performance das equipes, indo além dos relatórios nativos da própria ferramenta. Esse contexto tornou a Necto o cliente ideal para o desenvolvimento de uma solução focada em indicadores, transparência e apoio à tomada de decisão baseada em dados.
+
+O principal desafio identificado foi a dificuldade em transformar os dados brutos da API do Jira em informações gerenciais claras, confiáveis e atualizadas, mantendo a rastreabilidade entre projetos, issues, horas trabalhadas e custos. O processo anterior demandava consultas manuais, uso de planilhas e um alto esforço para cruzar informações, o que dificultava o acompanhamento de prazos, gargalos e produtividade das equipes. Essa falta de visibilidade impactava diretamente a gestão ágil dos projetos e a priorização das demandas.
+
+Para solucionar esse cenário, foi desenvolvido o Jibóia, um sistema de ETL especializado em integrar-se à API do Jira, consolidar os dados em uma base analítica e disponibilizar dashboards e boards voltados ao acompanhamento de projetos e issues. A solução permite listar projetos, visualizar detalhes como quantidade de issues, horas registradas e custo de hora, além de oferecer painéis com métricas de conclusão, tempo médio de resolução e participação de membros da equipe. Com isso, gestores, líderes e membros de time passam a ter um ambiente único para monitorar o andamento das iniciativas, identificar gargalos e tomar decisões mais embasadas.
+
+### Vídeo da Aplicação:
+https://github.com/user-attachments/assets/12753198-2c50-4e63-b288-c2ed920ce5ae
+
+
+[GITHUB PROJETO](https://github.com/c137santos/FATEC-API-5-SEMESTRE)
+
+#### Tecnologias Utilizadas
+* API Jira: Fonte de dados principal para extração de informações de projetos e issues.
+* Ferramentas de ETL: Responsáveis pela extração, transformação e carga dos dados em estrutura analítica.
+* Banco de dados (PostgreSQL, acessado via DBeaver): Armazenamento consolidado dos dados de projetos, issues, tempos e custos.
+* Vue.js e TypeScript: Desenvolvimento do front-end interativo e tipado.
+* Python (Django): Linguagem e framework principais para o backend e exposição das APIs.
+* GitHub: Controle de versionamento, documentação, uso de boards e organização das sprints.
+* GitHub Actions (CI/CD): Pipelines de build, testes e validação de pull requests integradas ao repositório.
+* SonarQube: Análise contínua da qualidade e cobertura do código.
+* Docker: Padronização e conteinerização do ambiente de desenvolvimento e execução.
+* Amazon AWS: Infraestrutura para deploy e hospedagem do sistema.
+* Figma: Prototipagem das telas e definição dos fluxos de navegação.
+
+#### Contribuições Pessoais
+Neste projeto, atuei diretamente no desenvolvimento de partes estruturais do front-end, garantindo que os dashboards e telas de consulta atendessem às necessidades dos gestores e fossem consistentes com os requisitos definidos. Fui responsável por estruturar e implementar todo o contexto de QA e DevOps, configurando pipelines de qualidade para pull requests, integrações com análise estática de código e padrões de branchs, além de apoiar a organização dos testes e critérios de aceite. Também exerci o papel de Scrum Master do time, facilitando cerimônias como plannings, dailys e reviews, gerenciando o fluxo das sprints e garantindo a aderência às práticas ágeis definidas no projeto.
+
+#### Hard Skills
+Com este projeto, aprofundei meus conhecimentos em integrações com a API do Jira, em processos de ETL voltados para consolidação de dados de projetos e issues, além de práticas de observabilidade e análise de métricas de times de desenvolvimento. Evoluí na implementação de front-end focado em dashboards gerenciais, na configuração de pipelines de CI/CD com validação de qualidade em pull requests e no uso de ferramentas como GitHub Projects, SonarQube e documentação técnica estruturada. Esse conjunto consolidou minha atuação em desenvolvimento full-stack orientado a dados e em engenharia de qualidade aplicada ao ciclo de vida do software.
+
+#### Soft Skills
+Ao longo do projeto, desenvolvi ainda mais minhas habilidades de liderança e facilitação atuando como Scrum Master, mantendo o time alinhado às metas de cada sprint e mediando impedimentos junto ao cliente e à equipe. Aprimorei minha comunicação ao traduzir requisitos técnicos e métricas de qualidade em linguagem acessível para stakeholders, além de incentivar a colaboração na revisão de código, definição de critérios de aceite e melhoria contínua do processo. Essa experiência reforçou minha capacidade de coordenar times multidisciplinares, equilibrando demandas técnicas, prazos e qualidade de entrega.
