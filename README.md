@@ -182,3 +182,38 @@ Com este projeto, aprofundei meus conhecimentos em integrações com a API do Ji
 
 #### Soft Skills
 Ao longo do projeto, desenvolvi ainda mais minhas habilidades de liderança e facilitação atuando como Scrum Master, mantendo o time alinhado às metas de cada sprint e mediando impedimentos junto ao cliente e à equipe. Aprimorei minha comunicação ao traduzir requisitos técnicos e métricas de qualidade em linguagem acessível para stakeholders, além de incentivar a colaboração na revisão de código, definição de critérios de aceite e melhoria contínua do processo. Essa experiência reforçou minha capacidade de coordenar times multidisciplinares, equilibrando demandas técnicas, prazos e qualidade de entrega.
+
+### Em 2026-1
+
+## THUNDERSTONE
+
+A empresa parceira neste projeto foi a Tecsys, especializada em soluções de telemetria e smart grid para o setor elétrico, com foco em monitoramento remoto e aumento da eficiência na distribuição de energia. Com a necessidade de expandir suas tecnologias de medição inteligente, a Tecsys enfrentava o desafio de dimensionar de forma mais precisa a rede de distribuição, considerando grande volume de dados regulatórios da ANEEL e cenários distintos de operação. Esse contexto tornou a empresa o cliente ideal para o desenvolvimento de uma plataforma analítica capaz de transformar dados massivos em insumos estratégicos para decisões comerciais e técnicas.
+
+O principal desafio identificado foi a padronização dos cálculos e o tratamento da enorme quantidade de dados públicos da ANEEL, que se apresentavam em formatos distintos e pouco práticos para análise direta. Além de organizar e estruturar essas informações, era necessário garantir a aplicação correta de índices regulatórios, métricas como DEC, FEC, perdas técnicas e não técnicas, e ainda contemplar aspectos de segurança e privacidade alinhados à LGPD. Isso exigiu um fluxo robusto de ingestão, processamento e validação de dados, com total rastreabilidade dos resultados apresentados em relatórios e dashboards.
+
+Para solucionar esse cenário, foi desenvolvido o Thunderstone, uma plataforma que processa dados regulatórios da ANEEL, aplica pipelines de cálculo e disponibiliza visualizações avançadas, como heatmaps, rankings, gráficos comparativos e análises preditivas. O sistema automatiza o cálculo de índices de criticidade, potencial de sensoriamento, perdas e extensão de rede, permitindo que consultores técnicos e comerciais visualizem rapidamente as regiões mais críticas e priorizem a alocação de sensores e investimentos. Além disso, a solução integra mecanismos de segurança e trilhas de auditoria, garantindo conformidade com LGPD e maior confiança nas análises apresentadas.
+
+### Vídeo da Aplicação:
+
+
+[GITHUB PROJETO](https://github.com/c137santos/FATEC-API-6-SEMESTRE)
+
+#### Tecnologias Utilizadas
+* FastAPI: Implementação de serviços backend performáticos e escaláveis para orquestrar o processamento e a exposição dos dados.
+* Petit Vue.js (HTML, CSS, JS): Desenvolvimento do front-end responsivo e interativo, com foco em dashboards, filtros e visualizações analíticas.
+* MongoDB: Armazenamento de dados processados e documentos analíticos, permitindo flexibilidade para lidar com estruturas complexas.
+* PostgreSQL: Banco relacional para persistência estruturada de informações de suporte e dados regulatórios consolidados.
+* Celery e Redis: Processamento assíncrono e gerenciamento de filas para tarefas intensivas de cálculo e ingestão de dados.
+* DBeaver: Ferramenta de apoio à modelagem, consulta e validação dos bancos de dados.
+* Google Colab: Ambiente inicial de experimentação e desenvolvimento dos pipelines de tratamento de dados e modelos de machine learning.
+* Machine Learning Python (Prophet, Pandas): Construção de modelos preditivos para identificação de trechos com maior risco de falhas e penalidades futuras.
+* Ferramentas LGPD e auditoria: Implementação de fluxos de anonimização, rastreio de acessos e registro de ações sensíveis na plataforma.
+
+#### Contribuições Pessoais
+Neste projeto, atuei como Scrum Master, trabalhando diretamente na organização do time em conjunto com o tech lead e a Product Owner, estruturando fluxos de reuniões, cadência de sprints e rituais necessários para o andamento do projeto. Fui responsável por mapear e orientar a criação de toda a documentação técnica e processual, incluindo padrões de commit, fluxo de pull requests, critérios de aceite e guias de uso. Além disso, contribuí ativamente na geração dos protótipos do sistema e na implementação das telas principais do front-end, cuidando também das integrações com o backend.
+
+#### Hard Skills
+Com este projeto, aprofundei meus conhecimentos em orquestração de pipelines de dados voltados a grandes volumes de informações regulatórias, tratamento de dados públicos da ANEEL e aplicação de contas matemáticas complexas para cálculo de indicadores de rede. Evoluí na implementação de interfaces analíticas com Vue.js integradas a APIs em FastAPI, no uso de bancos de dados relacionais e não relacionais de forma combinada e na construção de fluxos de segurança alinhados à LGPD, incluindo anonimização e trilhas de auditoria. Também tive contato prático com uso de Google Colab e bibliotecas de machine learning para plotagem de gráficos preditivos, conectando a camada analítica ao produto final.
+
+#### Soft Skills
+Ao longo do projeto, fortaleci minhas habilidades de liderança e facilitação atuando como Scrum Master, garantindo alinhamento constante entre tech lead, desenvolvedores e Product Owner. Aperfeiçoei minha comunicação ao traduzir necessidades técnicas complexas em linguagem acessível para o cliente e o time, além de estruturar padrões de trabalho que aumentaram a organização e a previsibilidade das entregas. Essa experiência consolidou minha capacidade de coordenar times multidisciplinares, conduzir rituais ágeis de forma eficaz e assegurar que documentação, processos e código caminhassem em conjunto desde a concepção até a entrega das funcionalidades.
