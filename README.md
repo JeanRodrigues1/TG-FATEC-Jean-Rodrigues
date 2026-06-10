@@ -159,7 +159,7 @@ Para solucionar esse cenário, foi desenvolvido o Jibóia, um sistema de ETL esp
 https://github.com/user-attachments/assets/12753198-2c50-4e63-b288-c2ed920ce5ae
 
 
-[GITHUB PROJETO](https://github.com/c137santos/FATEC-API-5-SEMESTRE)
+[GITHUB PROJETO](https://github.com/JeanRodrigues1/FATEC-API-5-SEMESTRE/tree/main)
 
 #### Tecnologias Utilizadas
 * API Jira: Fonte de dados principal para extração de informações de projetos e issues.
@@ -193,7 +193,7 @@ O principal desafio identificado foi a padronização dos cálculos e o tratamen
 
 Para solucionar esse cenário, foi desenvolvido o Thunderstone, uma plataforma que processa dados regulatórios da ANEEL, aplica pipelines de cálculo e disponibiliza visualizações avançadas, como heatmaps, rankings, gráficos comparativos e análises preditivas. O sistema automatiza o cálculo de índices de criticidade, potencial de sensoriamento, perdas e extensão de rede, permitindo que consultores técnicos e comerciais visualizem rapidamente as regiões mais críticas e priorizem a alocação de sensores e investimentos. Além disso, a solução integra mecanismos de segurança e trilhas de auditoria, garantindo conformidade com LGPD e maior confiança nas análises apresentadas.
 
-[GITHUB PROJETO](https://github.com/c137santos/FATEC-API-6-SEMESTRE)
+[GITHUB PROJETO](https://github.com/JeanRodrigues1/FATEC-API-6-SEMESTRE/tree/main)
 
 #### Tecnologias Utilizadas
 * FastAPI: Implementação de serviços backend performáticos e escaláveis para orquestrar o processamento e a exposição dos dados.
