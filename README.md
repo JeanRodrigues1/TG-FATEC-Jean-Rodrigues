@@ -1,6 +1,25 @@
 # TG-FATEC-Jean-Rodrigues
 Descrição detalhada dos projetos API trabalhados durante os semestre cursados na FATEC-SJCampos.
 
+---
+
+## Índice
+
+| # | Seção |
+|---|-------|
+| 01 | [Introdução](#introdução) |
+| 02 | [Contatos](#contatos) |
+| 03 | [Meus Principais Conhecimentos](#meus-principais-conhecimentos) |
+| 04 | [Meus Projetos](#meus-projetos) |
+| &nbsp;&nbsp;↳ | [🖥️ BIOS — 2022-2](#bios) |
+| &nbsp;&nbsp;↳ | [📋 PARE — 2023-1](#pare) |
+| &nbsp;&nbsp;↳ | [📅 API-SIATT — 2024-1](#api-siatt) |
+| &nbsp;&nbsp;↳ | [🌍 GEOHOOD — 2025-1](#geohood) |
+| &nbsp;&nbsp;↳ | [📊 JIBÓIA — 2025-2](#jibóia) |
+| &nbsp;&nbsp;↳ | [⚡ THUNDERSTONE — 2026-1](#thunderstone) |
+
+---
+
 # Jean César de Oliveira Rodrigues
 
 ## Introdução
