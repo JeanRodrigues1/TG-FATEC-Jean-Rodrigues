@@ -13,12 +13,17 @@ Descrição detalhada dos projetos API trabalhados durante os semestre cursados 
 | 02 | [Contatos](#contatos) |
 | 03 | [Meus Principais Conhecimentos](#meus-principais-conhecimentos) |
 | 04 | [Meus Projetos](#meus-projetos) |
-| 🖥️ | [**BIOS** &mdash; 2022-2](#bios) |
-| 📋 | [**PARE** &mdash; 2023-1](#pare) |
-| 📅 | [**API-SIATT** &mdash; 2024-1](#api-siatt) |
-| 🌍 | [**GEOHOOD** &mdash; 2025-1](#geohood) |
-| 📊 | [**JIBÓIA** &mdash; 2025-2](#jibóia) |
-| ⚡ | [**THUNDERSTONE** &mdash; 2026-1](#thunderstone) |
+
+<br/>
+
+**Projetos:**
+
+<a href="#bios"><img src="https://img.shields.io/badge/🖥️%20BIOS-2022--2-4A90D9?style=for-the-badge" alt="BIOS"/></a>
+<a href="#pare"><img src="https://img.shields.io/badge/📋%20PARE-2023--1-6A5ACD?style=for-the-badge" alt="PARE"/></a>
+<a href="#api-siatt"><img src="https://img.shields.io/badge/📅%20API--SIATT-2024--1-2E8B57?style=for-the-badge" alt="API-SIATT"/></a>
+<a href="#geohood"><img src="https://img.shields.io/badge/🌍%20GEOHOOD-2025--1-20B2AA?style=for-the-badge" alt="GEOHOOD"/></a>
+<a href="#jib%C3%B3ia"><img src="https://img.shields.io/badge/📊%20JIB%C3%93IA-2025--2-E8821A?style=for-the-badge" alt="JIBÓIA"/></a>
+<a href="#thunderstone"><img src="https://img.shields.io/badge/⚡%20THUNDERSTONE-2026--1-8B0000?style=for-the-badge" alt="THUNDERSTONE"/></a>
 
 ---
 
