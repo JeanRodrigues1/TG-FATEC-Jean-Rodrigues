@@ -7,12 +7,10 @@ Descrição detalhada dos projetos API trabalhados durante os semestre cursados 
 
 ## 📌 Índice
 
-| | Seção |
-|:---:|:---|
-| 01 | [Introdução](#introdução) |
-| 02 | [Contatos](#contatos) |
-| 03 | [Meus Principais Conhecimentos](#meus-principais-conhecimentos) |
-| 04 | [Meus Projetos](#meus-projetos) |
+<a href="#introdu%C3%A7%C3%A3o"><img src="https://img.shields.io/badge/01%20%E2%80%94%20Introdu%C3%A7%C3%A3o-555555?style=flat-square&logo=readme&logoColor=white" alt="Introdução"/></a>
+<a href="#contatos"><img src="https://img.shields.io/badge/02%20%E2%80%94%20Contatos-555555?style=flat-square&logo=about-dot-me&logoColor=white" alt="Contatos"/></a>
+<a href="#meus-principais-conhecimentos"><img src="https://img.shields.io/badge/03%20%E2%80%94%20Conhecimentos-555555?style=flat-square&logo=stackshare&logoColor=white" alt="Conhecimentos"/></a>
+<a href="#meus-projetos"><img src="https://img.shields.io/badge/04%20%E2%80%94%20Meus%20Projetos-555555?style=flat-square&logo=github&logoColor=white" alt="Meus Projetos"/></a>
 
 <br/>
 
